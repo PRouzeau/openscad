@@ -1721,7 +1721,7 @@ msgstr "Téléverse, tranche et sélectionne pour l'impression"
 
 #: src/settings.cc:185
 msgid "Upload, Slice & Start printing"
-msgstr "Télméverse, tranche et démarre l'impression"
+msgstr "Téléverse, tranche et démarre l'impression"
 
 #: src/parameter/ParameterWidget.cc:79 src/parameter/ParameterWidget.cc:237
 msgid "changes on current preset not saved"
